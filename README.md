@@ -46,6 +46,7 @@ detailed report:
    cd student-grade-tracker ```
    
 2.Open the project in your IDE (e.g., IntelliJ, Eclipse, NetBeans)
+
 3.Run StudentGradeTracker.java as a Java application
 ⚠️ Make sure Java 8+ and JavaFX are properly configured.
 
